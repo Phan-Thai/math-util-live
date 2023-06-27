@@ -21,6 +21,8 @@ public class MathUtilLive {
         System.out.println(" expected: 0! = 1; actual: " + MathUtil.getFactorial(0));
         // kĩ thuật kiểm thử phần mềm: ước lượng xem giá trị 
         // expected value: 5! = 120
+        System.out.println(" expected: 3! = 6; actual: " + MathUtil.getFactorial(3));
+
     }
     
 }
